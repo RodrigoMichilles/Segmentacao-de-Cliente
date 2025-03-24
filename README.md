@@ -1,6 +1,6 @@
 # Segmentação de Clientes com PCA e K-Means
 
-<p align="center"> <img alt="Churn" width="65%" src="https://raw.githubusercontent.com/gist/DevMichilles/d800881d13da872f6a837530b868f536/raw/5cd9e0088a6601aba23d7d4f0639c940fb7de3e8/kmeans.svg"> 
+<p align="center"> <img alt="Churn" width="65%" src="https://raw.githubusercontent.com/gist/RodrigoMichilles/d800881d13da872f6a837530b868f536/raw/5cd9e0088a6601aba23d7d4f0639c940fb7de3e8/kmeans.svg"> 
 </p> 
 
 A segmentação de clientes é essencial para o sucesso de estratégias de marketing, permitindo uma abordagem personalizada e aumentando a eficácia das campanhas. Neste projeto, o objetivo é identificar grupos distintos de clientes utilizando o algoritmo **K-Means** para análise de agrupamento, com apoio do **PCA (Análise de Componentes Principais)** para redução de dimensionalidade e simplificação dos dados.
